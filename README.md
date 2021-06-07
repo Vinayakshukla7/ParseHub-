@@ -7,11 +7,13 @@ We’ll need to set up ParseHub on our system for that start Downloading it and 
 3.  There will be two sections one left will have the functioning of automation and other has the webpage preview on which we want to currently do extraction
 4. To begin extracting data, you will need to click on what exactly you want to extract, in this case, Smartphone name. Click on the first smartphone name you see.
    Once clicked, the selection you made will turn green. ParseHub will then make suggestions of what it thinks you want to extract so select one more smartphone name.
-5 .Let’s rename our selection to something that will help us keep our data organized. To do this, just double click on the selection, the name will be highlighted and you can now     rename it. In this case, we are going to name it “Phone” under with its subselection named as "name" .
-                     ![image](https://user-images.githubusercontent.com/56677415/120992993-c2b0e600-c7a0-11eb-935e-1abf4dee9199.png)
+5 .Let’s rename our selection to something that will help us keep our data organized. To do this, just double click on the selection, the name will be highlighted and you can now rename it. In this case, we are going to name it “Phone” under with its subselection named as "name" .
+
+![image](https://user-images.githubusercontent.com/56677415/120992993-c2b0e600-c7a0-11eb-935e-1abf4dee9199.png)
                     
 6.Now click on "+"besides new entry in phone and then select click and click on the name of first phone on appearing on web page.
 7.Now it ask to click but select "NO" 
+
 ![image](https://user-images.githubusercontent.com/56677415/120993745-79ad6180-c7a1-11eb-8bf2-49d23b0fd965.png)  
 
 and then create a new_templete which will run everytime whenever you select next phone from the page.
